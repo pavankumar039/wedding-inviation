@@ -13,12 +13,12 @@
 @media (max-width: 480px) {
     #fh5co-header {
         background-size: contain; /* Contain the image within the header area */
-        background-position: top center; /* Position the image at the top */
+        background-position: center; /* Position the image at the top */
     }
 }
 @media (max-width: 480px) {
     #fh5co-event {
-        background-size: cover; /* Contain the image within the header area */
+        background-size: contain; /* Contain the image within the header area */
         background-position:  center; /* Position the image at the top */
     }
 }
