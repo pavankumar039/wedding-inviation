@@ -17,12 +17,7 @@
     }
 }
 
-@media (max-width: 480px) {
-    #fh5co-event {
-      background-size: contain; /* Ensures the image is contained within the header */
-        background-position: center center;
-    }
-}
+
 body {
   font-family: "Work Sans", Arial, sans-serif;
   font-weight: 400;
