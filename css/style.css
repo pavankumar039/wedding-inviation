@@ -10,6 +10,12 @@
 * 	Template Style 
 *
 * ======================================================= */
+@media (max-width: 480px) {
+    #fh5co-header {
+        background-size: contain; /* Contain the image within the header area */
+        background-position: top center; /* Position the image at the top */
+    }
+}
 body {
   font-family: "Work Sans", Arial, sans-serif;
   font-weight: 400;
