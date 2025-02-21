@@ -18,8 +18,8 @@
 }
 @media (max-width: 480px) {
     #fh5co-event {
-        background-size: contain; /* Contain the image within the header area */
-        background-position:  center; /* Position the image at the top */
+       width: 4000px;
+  height: 2000px;
     }
 }
 body {
