@@ -11,7 +11,11 @@
 *
 * ======================================================= */
 
-
+@media screen and (max-width: 480px) {
+  .fh5co-cover {
+    height: 100vh; /* Set height to full viewport height */
+    background-position: center center; /* Center the background image */
+  }
 
 body {
   font-family: "Work Sans", Arial, sans-serif;
