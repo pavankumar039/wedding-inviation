@@ -15,7 +15,7 @@
     #fh5co-header{
         background-size: contain; /* Ensures the image is contained within the header */
         background-position: center ;/* Centers the background image */
-      background-image: url(images/backimg2.JPG);
+        margin-top: 30px;
      
     }
 }
