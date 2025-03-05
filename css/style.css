@@ -14,7 +14,7 @@
 @media (max-width: 480px) {
     #fh5co-header{
         background-size: contain; /* Ensures the image is contained within the header */
-        background-position: center ; Centers the background image */
+        background-position: center ;/* Centers the background image */
      
     }
 }
