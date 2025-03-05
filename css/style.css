@@ -16,7 +16,7 @@
         background-size: contain; /* Ensures the image is contained within the header */
         background-position: center ; Centers the background image */
       height: 3144px;
-      width: 3000px;
+      width: 100%;
     }
 }
 body {
