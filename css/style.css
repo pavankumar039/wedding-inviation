@@ -12,9 +12,11 @@
 * ======================================================= */
 
 @media (max-width: 480px) {
-    #fh5co-header {
-        background-size: contain; /* Ensures the image is contained within the header */
-        background-position: center center; /* Centers the background image */
+    .fh5co-cover {
+      /*   background-size: contain; /* Ensures the image is contained within the header */
+       /*  background-position: center center; Centers the background image */
+      height: 2340px;
+      width: 1080px;
     }
 }
 body {
